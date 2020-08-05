@@ -1,0 +1,3 @@
+﻿  arreglo deprati.cpp
+C:\Users\PC\source\repos\arreglo deprati\arreglo deprati\arreglo deprati.cpp(20,36): warning C4554: "&": compruebe la prioridad de operador para posibles errores; utilice paréntesis para indicar la prioridad
+  arreglo deprati.vcxproj -> C:\Users\PC\source\repos\arreglo deprati\Debug\arreglo deprati.exe
